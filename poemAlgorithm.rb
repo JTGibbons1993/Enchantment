@@ -2,10 +2,7 @@
 ----------------------------------------------
 ##############ENCHANTING GENERATOR############
 ----------------------------------------------
-So I tried making poems at first, but I couldn't figure
-out how to make them rhyme. Nothin I searched helped.
-
-Instead I made a random generator creating
+I made a random generator creating
 different spells to cast. I just think they
 sound really cool.
 
